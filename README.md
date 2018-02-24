@@ -1,7 +1,7 @@
 # AutoSploit_CHS
 渗透工具AutoSploit的汉化版
 
-###程序仅仅做了汉化，无功改动！
+###程序仅仅做了汉化，无功能改动！
 
 来源地址：https://github.com/NullArray/AutoSploit
 
