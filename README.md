@@ -18,7 +18,7 @@ pip install blessings
 程序安装：
 ```bash
 git clone https://github.com/NullArray/AutoSploit_CHS.git
-cd Autosploit/Docker
+cd AutoSploit_CHS
 python autosploit.py
 ```
 
