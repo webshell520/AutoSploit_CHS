@@ -22,4 +22,4 @@ cd Autosploit/Docker
 python autosploit.py
 ```
 
-原说明：
+原说明：https://github.com/NullArray/AutoSploit/blob/master/README.md
